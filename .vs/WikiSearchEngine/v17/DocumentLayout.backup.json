@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91928\\source\\repos\\WikiSearchEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73FE085C-AEF8-4DCA-A840-4E43C4E59FAD}|Models\\Models.csproj|c:\\users\\91928\\source\\repos\\wikisearchengine\\models\\searchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FE085C-AEF8-4DCA-A840-4E43C4E59FAD}|Models\\Models.csproj|solutionrelative:models\\searchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EB2C3B-E577-45CD-B361-3CE6C9AEBD8C}|WikiSearch.API\\WikiSearch.API.csproj|c:\\users\\91928\\source\\repos\\wikisearchengine\\wikisearch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EB2C3B-E577-45CD-B361-3CE6C9AEBD8C}|WikiSearch.API\\WikiSearch.API.csproj|solutionrelative:wikisearch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EB2C3B-E577-45CD-B361-3CE6C9AEBD8C}|WikiSearch.API\\WikiSearch.API.csproj|c:\\users\\91928\\source\\repos\\wikisearchengine\\wikisearch.api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EB2C3B-E577-45CD-B361-3CE6C9AEBD8C}|WikiSearch.API\\WikiSearch.API.csproj|solutionrelative:wikisearch.api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C17DDC0-BD76-45DE-8314-144C2DF7F339}|WikiIndexBuilder\\WikiIndexBuilder.csproj|c:\\users\\91928\\source\\repos\\wikisearchengine\\wikiindexbuilder\\wikiparse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C17DDC0-BD76-45DE-8314-144C2DF7F339}|WikiIndexBuilder\\WikiIndexBuilder.csproj|solutionrelative:wikiindexbuilder\\wikiparse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FE085C-AEF8-4DCA-A840-4E43C4E59FAD}|Models\\Models.csproj|c:\\users\\91928\\source\\repos\\wikisearchengine\\models\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FE085C-AEF8-4DCA-A840-4E43C4E59FAD}|Models\\Models.csproj|solutionrelative:models\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91928\\source\\repos\\WikiSearchEngine\\WikiSearch.API\\Program.cs",
+              "RelativeDocumentMoniker": "WikiSearch.API\\Program.cs",
+              "ToolTip": "C:\\Users\\91928\\source\\repos\\WikiSearchEngine\\WikiSearch.API\\Program.cs",
+              "RelativeToolTip": "WikiSearch.API\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:40:53.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchResponse.cs",
+              "DocumentMoniker": "C:\\Users\\91928\\source\\repos\\WikiSearchEngine\\Models\\SearchResponse.cs",
+              "RelativeDocumentMoniker": "Models\\SearchResponse.cs",
+              "ToolTip": "C:\\Users\\91928\\source\\repos\\WikiSearchEngine\\Models\\SearchResponse.cs",
+              "RelativeToolTip": "Models\\SearchResponse.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:49:24.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\91928\\source\\repos\\WikiSearchEngine\\WikiSearch.API\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "WikiSearch.API\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\91928\\source\\repos\\WikiSearchEngine\\WikiSearch.API\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "WikiSearch.API\\Controllers\\SearchController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:43:55.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WikiParse.cs",
+              "DocumentMoniker": "C:\\Users\\91928\\source\\repos\\WikiSearchEngine\\WikiIndexBuilder\\WikiParse.cs",
+              "RelativeDocumentMoniker": "WikiIndexBuilder\\WikiParse.cs",
+              "ToolTip": "C:\\Users\\91928\\source\\repos\\WikiSearchEngine\\WikiIndexBuilder\\WikiParse.cs",
+              "RelativeToolTip": "WikiIndexBuilder\\WikiParse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:36:25.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "C:\\Users\\91928\\source\\repos\\WikiSearchEngine\\Models\\Interfaces.cs",
+              "RelativeDocumentMoniker": "Models\\Interfaces.cs",
+              "ToolTip": "C:\\Users\\91928\\source\\repos\\WikiSearchEngine\\Models\\Interfaces.cs",
+              "RelativeToolTip": "Models\\Interfaces.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:54:41.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@WikiSearch.API_HostAddress = http://localhost:5152
+
+GET {{WikiSearch.API_HostAddress}}/WikiSearch/
+Accept: application/json
+
+###
